@@ -133,6 +133,21 @@ ul li a{
   transition: background 0.2s;
 }
 
+/* Realizar futuras alterações*/
+
+#portifolio{
+opacity: 0.5;
+pointer-events: none;    /* bloqueia o clique normal */
+position: relative;
+}
+
+#explorer{
+opacity: 0.5;
+pointer-events: none;
+position: relative;
+}
+
+
 /*Pseudo-selector, aplica as interações quando o mouse passar por cima*/
 ul li a:hover{
 background: var(--surface-color-hover);
