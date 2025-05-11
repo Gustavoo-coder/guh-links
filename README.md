@@ -18,7 +18,7 @@ Este projeto foi criado com foco em praticar e aplicar conceitos de HTML, CSS e 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/devlinks.jpg" width="100%">
+  <img alt="Dev Links" src=".github/devlinks.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
